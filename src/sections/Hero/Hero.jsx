@@ -36,9 +36,9 @@ function Hero() {
       </div>
       <div className={styles.info}>
         <h1>
-          Vrushabh
+          VRUSHABH
           <br />
-          Pawar
+          PAWAR
         </h1>
         <h2>Full Stack Developer</h2>
         <span>
